@@ -1,0 +1,13 @@
+.form__field {
+    margin: 0 0 0 40px;
+    padding: 0 20px 0 20px;
+    width: 228px;
+    line-height: 55px;
+    font-size: 16px;
+    border: 1px solid #0066FF;
+    font-family: 'Inter';
+}
+
+.form__field:first-of-type {
+    margin: 0 0 0 0;
+}

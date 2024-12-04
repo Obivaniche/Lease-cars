@@ -1,0 +1,14 @@
+.footer__app-link {
+    margin: auto 40px auto 0;
+    padding: 0;
+    transition: 0.4s ease;
+}
+
+.footer__app-link:last-of-type {
+    margin: 0;
+}
+
+.footer__app-link:hover {
+    outline: 1px solid #FFFFFF;
+    transform: scale(1.1);
+}

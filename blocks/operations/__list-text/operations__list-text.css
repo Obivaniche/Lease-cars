@@ -1,0 +1,8 @@
+.operations__list-text {
+    font-family: 'Inter';
+    font-size: 16px;
+    max-width: 580px;
+    text-align: left;
+    padding: 0;
+    margin: auto 0 auto 150px;
+}

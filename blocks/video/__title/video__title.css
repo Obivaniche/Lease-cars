@@ -1,0 +1,10 @@
+.video__title {
+    margin: 150px auto 0 auto;
+    text-align: center;
+    padding: 0;
+    font-family: 'Inter';
+    font-size: 48px;
+    font-weight: 600;
+    color: #151515;
+    text-transform: uppercase;
+}

@@ -1,0 +1,14 @@
+.menu__item {
+    margin: 0 35px 0 0;
+    padding: 0;
+    transition: 0.4s ease;
+}
+
+.menu__item:last-of-type {
+    margin: 0;
+}
+
+.menu__item:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease;
+}

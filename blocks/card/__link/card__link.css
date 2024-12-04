@@ -1,0 +1,17 @@
+.card__link {
+    margin: 20px auto 0 auto;
+    width: 268px;
+    height: 23px;
+    border-top: 1px solid #0066FF;
+    text-decoration: none;
+    color: #0066FF;
+    font-size: 16px;
+    line-height: 23px;
+    font-family: 'Inter';
+    transition: 0.4s ease;
+}
+
+.card__link:hover {
+    background-color: #0066FF;
+    color: #FFFFFF;
+}

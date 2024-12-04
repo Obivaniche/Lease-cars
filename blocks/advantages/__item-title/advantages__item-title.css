@@ -1,0 +1,9 @@
+.advantages__item-title {
+    margin: 30px auto 0 auto;
+    text-align: center;
+    padding: 0;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 600;
+    color: #151515;
+}

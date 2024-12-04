@@ -1,0 +1,10 @@
+.header__container {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto 0 auto;
+    position: absolute;
+    z-index: 3;
+    left: 0;
+    right: 0;
+}

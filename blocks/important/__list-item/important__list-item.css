@@ -1,0 +1,8 @@
+.important__list-item {
+    margin: 0 40px 0 0;
+    max-width: 270px;
+}
+
+.important__list-item:last-of-type {
+    margin: 0;
+}
